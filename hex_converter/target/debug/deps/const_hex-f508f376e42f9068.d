@@ -1,0 +1,12 @@
+/home/lukas/Downloads/supply-chain-rust-sample/hex_converter/target/debug/deps/const_hex-f508f376e42f9068.rmeta: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/x86.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/error.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/traits.rs
+
+/home/lukas/Downloads/supply-chain-rust-sample/hex_converter/target/debug/deps/const_hex-f508f376e42f9068.d: /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/x86.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/error.rs /home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/traits.rs
+
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/lib.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/mod.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/generic.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/impl_core.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/buffer.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/arch/x86.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/error.rs:
+/home/lukas/.cargo/registry/src/index.crates.io-6f17d22bba15001f/const-hex-1.10.0/src/traits.rs:
